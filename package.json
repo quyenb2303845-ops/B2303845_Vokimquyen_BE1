@@ -3,5 +3,10 @@
     "cors": "^2.8.5",
     "express": "^5.1.0",
     "exprss": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "eslint": "^9.39.0",
+    "eslint-config-prettier": "^10.1.8",
+    "prettier": "^3.6.2"
   }
 }
