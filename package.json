@@ -4,9 +4,17 @@
     "express": "^5.1.0",
     "exprss": "^0.0.1-security"
   },
+
+  "scripts": {
+    "test": "echo \"Error: no test specifide\" && exit 1",
+    "start": "nodemon server.js"
+  },
+
   "devDependencies": {
     "eslint": "^9.39.0",
     "eslint-config-prettier": "^10.1.8",
+    "nodemon": "^3.1.10",
     "prettier": "^3.6.2"
+    
   }
 }
